@@ -39,6 +39,10 @@ body {
     border-radius: 0px 60px 0px 0px;
     
 }
+.link
+{ 
+   text-decoration-line: none; 
+}
 
 .profile {
     width: 100%;
